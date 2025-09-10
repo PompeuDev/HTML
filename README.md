@@ -1,4 +1,15 @@
-*** READ ME ***
+# 1 PROJETO HTML
 
-Aula para interação de GitBash com VisualCode em projeto HTML.
+Projeto FrontEnd de um site bonitão
+
+## TECNOLOGIAS
+
+- HTML
+- CSS
+- JavaScript
+
+### CONTRIBUIDORES
+
+
+[Lucas Pompeu](https://github.com/PompeuDev)
 
