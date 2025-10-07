@@ -1,0 +1,102 @@
+* {
+  box-sizing: border-box;
+  margin:0;
+  padding:0;
+}
+
+.header {
+  background-color: #C4170C;
+  margin-bottom: 24px;
+}
+
+.conteiner {
+  width: 48%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+
+}
+
+/* display : Block / Inline */
+
+.box {
+  width: 300px;
+  display: inline-block;
+  vertical-align: top;
+
+}
+
+.first-news {
+  border-width: 1px;
+  border-style: solid;
+  border-color:#C4170C;
+  border-radius: 8px;
+  padding: 24px;
+  background-color: lightgray;
+}
+.second-news{
+    border-width: 1px;
+  border-style: solid;
+  border-color:#C4170C;
+  border-radius: 8px;
+  padding: 24px;
+  background-color: lightgray;
+}
+.menu-item:first-child{
+  padding-left: 0;
+  
+}
+
+.menu-item:last-child{
+  padding-right: 0;
+}
+
+.menu-item{
+  display: inline-block;
+  padding-left: 8px;
+  padding-right: 8px;
+
+
+
+}
+
+.menu{
+  padding-top: 12px;
+  padding-bottom: 12px;
+
+}
+.box-link{
+  display: block;
+}
+
+
+.menu-link {
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.globo-com {
+  color: #0669DE;
+}
+
+.g1-com {
+  color: #C4170C;
+}
+
+.ge {
+  color: #06AA48;
+}
+
+.globoplay {
+  color: #FB0334;
+}
+
+.jogos {
+  color: #A5147D;
+}
+
+.o-globo {
+  color: #1E4C9A;
+}
